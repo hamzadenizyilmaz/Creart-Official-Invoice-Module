@@ -62,7 +62,6 @@ Bu ürün **yıllık lisans** ile satılır.
 - Süre sonu: otomatik akışlar kısıtlanabilir, yenileme gerekir.
 - Yenileme kapsamı: sürüm güncellemeleri, güvenlik yamaları, teknik destek.
 - Lisans devri: satıcı onayı ile kontrollü.
-- Trial lisans: PDF üzerinde `LISANSSIZ / DENEME` watermark.
 
 ### Önerilen Ticari Politika
 - Ana lisans: 1 production domain.
